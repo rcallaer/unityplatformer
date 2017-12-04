@@ -1,0 +1,21 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Telenertia Assets\Scripts\GruxorMovement.js">
+    <Files>
+      <File FileName="Assets\Telenertia Assets\Scripts\PlayerStats.js" Line="37" Column="13" />
+      <File FileName="Assets\Telenertia Assets\Scripts\AnimatingTextures.js" Line="1" Column="1" />
+      <File FileName="Assets\Telenertia Assets\Scripts\BossVictory.js" Line="1" Column="1" />
+      <File FileName="Assets\Telenertia Assets\Scripts\CheckPoint.js" Line="1" Column="1" />
+      <File FileName="Assets\Telenertia Assets\Scripts\DisableBehavior.js" Line="1" Column="1" />
+      <File FileName="Assets\Telenertia Assets\Scripts\FlyingFishMovement.js" Line="1" Column="1" />
+      <File FileName="Assets\Telenertia Assets\Scripts\FoundNewWeapon.js" Line="1" Column="1" />
+      <File FileName="Assets\Telenertia Assets\Scripts\GruxBossPart.js" Line="5" Column="17" />
+      <File FileName="Assets\Telenertia Assets\Scripts\GruxorBossMovement.js" Line="351" Column="1" />
+      <File FileName="Assets\Telenertia Assets\Scripts\GruxorMovement.js" Line="205" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

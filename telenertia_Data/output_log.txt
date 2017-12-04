@@ -1,0 +1,710 @@
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 9.18.13.1106]
+    Renderer: NVIDIA GeForce GTX 460
+    Vendor:   NVIDIA
+    VRAM:     1024 MB
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 DF24=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+desktop: 1600x900 59Hz; virtual: 1600x900 at 0,0
+<I> Initializing (RawInput).
+<RI> Input initialized.
+Non platform assembly: data-034C6DB0 (this message is harmless)
+Non platform assembly: data-0352B088 (this message is harmless)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 144.
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 149.
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 149.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 143.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 146.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 1647.
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+Platform assembly: C:\Users\Ryan\Desktop\School\Older\457 Game Programming\Final Project\telenertia_Data\Managed\Boo.Lang.dll (this message is harmless)
+Platform assembly: C:\Users\Ryan\Desktop\School\Older\457 Game Programming\Final Project\telenertia_Data\Managed\UnityScript.Lang.dll (this message is harmless)
+NullReferenceException: Object reference not set to an instance of an object
+  at ProjectileCollisions.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+PlayerMovement:PlayAnim(String)
+PlayerMovement:Update()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ProjectileCollisions.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+PlayerMovement:PlayAnim(String)
+PlayerMovement:Update()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ProjectileCollisions.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+PlayerMovement:PlayAnim(String)
+PlayerMovement:Update()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ProjectileCollisions.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+PlayerMovement:PlayAnim(String)
+PlayerMovement:Update()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ProjectileCollisions.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+PlayerMovement:PlayAnim(String)
+PlayerMovement:Update()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ProjectileCollisions.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+PlayerMovement:PlayAnim(String)
+PlayerMovement:Update()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ProjectileCollisions.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+PlayerMovement:PlayAnim(String)
+PlayerMovement:Update()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ProjectileCollisions.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+PlayerMovement:PlayAnim(String)
+PlayerMovement:Update()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ProjectileCollisions.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+PlayerMovement:PlayAnim(String)
+PlayerMovement:Update()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ProjectileCollisions.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+PlayerMovement:PlayAnim(String)
+PlayerMovement:Update()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ProjectileCollisions.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+PlayerMovement:PlayAnim(String)
+PlayerMovement:Update()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ProjectileCollisions.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+PlayerMovement:PlayAnim(String)
+PlayerMovement:Update()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ProjectileCollisions.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+PlayerMovement:PlayAnim(String)
+PlayerMovement:Update()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ProjectileCollisions.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+PlayerMovement:PlayAnim(String)
+PlayerMovement:Update()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ProjectileCollisions.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+PlayerMovement:PlayAnim(String)
+PlayerMovement:Update()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ProjectileCollisions.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+PlayerMovement:PlayAnim(String)
+PlayerMovement:Update()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ProjectileCollisions.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+PlayerMovement:PlayAnim(String)
+PlayerMovement:Update()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ProjectileCollisions.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+PlayerMovement:PlayAnim(String)
+PlayerMovement:Update()
+ 
+(Filename:  Line: -1)
+
+
+Unloading 182 unused Assets to reduce memory usage. Loaded Objects now: 3664.
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+NullReferenceException: Object reference not set to an instance of an object
+  at ProjectileCollisions.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+PlayerMovement:PlayAnim(String)
+PlayerMovement:Update()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ProjectileCollisions.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+PlayerMovement:PlayAnim(String)
+PlayerMovement:Update()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ProjectileCollisions.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+PlayerMovement:PlayAnim(String)
+PlayerMovement:Update()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ProjectileCollisions.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+PlayerMovement:PlayAnim(String)
+PlayerMovement:Update()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ProjectileCollisions.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+PlayerMovement:PlayAnim(String)
+PlayerMovement:Update()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ProjectileCollisions.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+PlayerMovement:PlayAnim(String)
+PlayerMovement:Update()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ProjectileCollisions.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+PlayerMovement:PlayAnim(String)
+PlayerMovement:Update()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ProjectileCollisions.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+PlayerMovement:PlayAnim(String)
+PlayerMovement:Update()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ProjectileCollisions.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+PlayerMovement:PlayAnim(String)
+PlayerMovement:Update()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ProjectileCollisions.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+PlayerMovement:PlayAnim(String)
+PlayerMovement:Update()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ProjectileCollisions.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+PlayerMovement:PlayAnim(String)
+PlayerMovement:Update()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ProjectileCollisions.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+PlayerMovement:PlayAnim(String)
+PlayerMovement:Update()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ProjectileCollisions.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+PlayerMovement:PlayAnim(String)
+PlayerMovement:Update()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ProjectileCollisions.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+PlayerMovement:PlayAnim(String)
+PlayerMovement:Update()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ProjectileCollisions.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+PlayerMovement:PlayAnim(String)
+PlayerMovement:Update()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ProjectileCollisions.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+PlayerMovement:PlayAnim(String)
+PlayerMovement:Update()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ProjectileCollisions.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+PlayerMovement:PlayAnim(String)
+PlayerMovement:Update()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ProjectileCollisions.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+PlayerMovement:PlayAnim(String)
+PlayerMovement:Update()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ProjectileCollisions.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+PlayerMovement:PlayAnim(String)
+PlayerMovement:Update()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ProjectileCollisions.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+PlayerMovement:PlayAnim(String)
+PlayerMovement:Update()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ProjectileCollisions.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+PlayerMovement:PlayAnim(String)
+PlayerMovement:Update()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ProjectileCollisions.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+PlayerMovement:PlayAnim(String)
+PlayerMovement:Update()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ProjectileCollisions.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+PlayerMovement:PlayAnim(String)
+PlayerMovement:Update()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ProjectileCollisions.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+PlayerMovement:PlayAnim(String)
+PlayerMovement:Update()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ProjectileCollisions.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+PlayerMovement:PlayAnim(String)
+PlayerMovement:Update()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ProjectileCollisions.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+PlayerMovement:PlayAnim(String)
+PlayerMovement:Update()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ProjectileCollisions.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+PlayerMovement:PlayAnim(String)
+PlayerMovement:Update()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ProjectileCollisions.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+PlayerMovement:PlayAnim(String)
+PlayerMovement:Update()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ProjectileCollisions.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+PlayerMovement:PlayAnim(String)
+PlayerMovement:Update()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ProjectileCollisions.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+PlayerMovement:PlayAnim(String)
+PlayerMovement:Update()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ProjectileCollisions.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+PlayerMovement:PlayAnim(String)
+PlayerMovement:Update()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ProjectileCollisions.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+PlayerMovement:PlayAnim(String)
+PlayerMovement:Update()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ProjectileCollisions.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+PlayerMovement:PlayAnim(String)
+PlayerMovement:Update()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ProjectileCollisions.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+PlayerMovement:PlayAnim(String)
+PlayerMovement:Update()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ProjectileCollisions.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+PlayerMovement:PlayAnim(String)
+PlayerMovement:Update()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ProjectileCollisions.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+PlayerMovement:PlayAnim(String)
+PlayerMovement:Update()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ProjectileCollisions.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+PlayerMovement:PlayAnim(String)
+PlayerMovement:Update()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ProjectileCollisions.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+PlayerMovement:PlayAnim(String)
+PlayerMovement:Update()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ProjectileCollisions.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+PlayerMovement:PlayAnim(String)
+PlayerMovement:Update()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ProjectileCollisions.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+PlayerMovement:PlayAnim(String)
+PlayerMovement:Update()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ProjectileCollisions.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+PlayerMovement:PlayAnim(String)
+PlayerMovement:Update()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ProjectileCollisions.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+PlayerMovement:PlayAnim(String)
+PlayerMovement:Update()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ProjectileCollisions.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+PlayerMovement:PlayAnim(String)
+PlayerMovement:Update()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ProjectileCollisions.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+PlayerMovement:PlayAnim(String)
+PlayerMovement:Update()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ProjectileCollisions.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+PlayerMovement:PlayAnim(String)
+PlayerMovement:Update()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ProjectileCollisions.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+PlayerMovement:PlayAnim(String)
+PlayerMovement:Update()
+ 
+(Filename:  Line: -1)
+
+
+Unloading 954 unused Assets to reduce memory usage. Loaded Objects now: 966.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+NullReferenceException: Object reference not set to an instance of an object
+  at ProjectileCollisions.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+PlayerMovement:PlayAnim(String)
+PlayerMovement:Update()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ProjectileCollisions.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+PlayerMovement:PlayAnim(String)
+PlayerMovement:Update()
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ProjectileCollisions.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+PlayerMovement:PlayAnim(String)
+PlayerMovement:Update()
+ 
+(Filename:  Line: -1)
+
+
+Unloading 159 unused Assets to reduce memory usage. Loaded Objects now: 224.
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
